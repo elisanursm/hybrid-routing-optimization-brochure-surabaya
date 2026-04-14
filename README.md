@@ -27,9 +27,6 @@ project-root/
 ├── main/
 │   └── Final_Combine_Hybird ML.ipynb
 │
-├── data/
-│   └── (school location dataset)
-│
 ├── README.md
 └── LICENSE
 
