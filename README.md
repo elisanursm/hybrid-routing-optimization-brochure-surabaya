@@ -22,8 +22,8 @@ Distributing brochures manually to many schools may lead to inefficient travel r
 The dataset contains distribution points representing schools in Surabaya. These points are used as route nodes for optimization.
 
 ## 📁 Project Structure
-├── main/
-│   └── Final_Combine_Hybird ML.ipynb
+main/
+ Final_Combine_Hybird ML.ipynb
 
 
 ## 🚀 Output
